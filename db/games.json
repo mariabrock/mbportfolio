@@ -1,0 +1,12 @@
+{
+  "game1": {
+  "title": "Title of Game",
+  "screenshot": "",
+  "description": "A description of this project",
+  "technologiesUsed": "Adobe Photoshop, Unity, C#",
+  "available": true,
+  "url": "",
+  "githubUrl": ""
+}
+
+}
